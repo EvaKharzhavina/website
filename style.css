@@ -130,8 +130,8 @@ table {
 .photo {
  margin-top: 50px;
  width: 300px;
- /*margin-left: 60px;*/
- margin-right: 230px
+ margin-left: 60px;
+ /*margin-right: 230px; */
 }
 
 .novphoto {
